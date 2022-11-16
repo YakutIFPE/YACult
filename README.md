@@ -1,2 +1,1 @@
-# yakut2022
-Projeto do Yakut em Arduino - IFPE 2022
+Projeto do YACult em Arduino - IFPE 2022
